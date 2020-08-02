@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4832602-8e57-4f92-be1f-37573c6f0e09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fVaeKAEaUf1gV5prmjyZ1gCET4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="EncapsulationChallenge" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4832602-8e57-4f92-be1f-37573c6f0e09" name="Default Changelist" comment="" />
+      <created>1596305807502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596305807502</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3489" y="420" key="#com.intellij.ide.util.MemberChooser" timestamp="1596307014499">
+      <screen x="2560" y="0" width="2535" height="1440" />
+    </state>
+    <state x="3489" y="420" key="#com.intellij.ide.util.MemberChooser/-1440.897.1440.900/2560.0.2535.1440/0.23.2560.1417@2560.0.2535.1440" timestamp="1596307014499" />
+    <state width="1802" height="354" key="GridCell.Tab.0.bottom" timestamp="1596307701150">
+      <screen x="2560" y="0" width="2535" height="1440" />
+    </state>
+    <state width="1802" height="354" key="GridCell.Tab.0.bottom/-1440.897.1440.900/2560.0.2535.1440/0.23.2560.1417@2560.0.2535.1440" timestamp="1596307701150" />
+    <state width="1802" height="354" key="GridCell.Tab.0.center" timestamp="1596307701149">
+      <screen x="2560" y="0" width="2535" height="1440" />
+    </state>
+    <state width="1802" height="354" key="GridCell.Tab.0.center/-1440.897.1440.900/2560.0.2535.1440/0.23.2560.1417@2560.0.2535.1440" timestamp="1596307701149" />
+    <state width="1802" height="354" key="GridCell.Tab.0.left" timestamp="1596307701148">
+      <screen x="2560" y="0" width="2535" height="1440" />
+    </state>
+    <state width="1802" height="354" key="GridCell.Tab.0.left/-1440.897.1440.900/2560.0.2535.1440/0.23.2560.1417@2560.0.2535.1440" timestamp="1596307701148" />
+    <state width="1802" height="354" key="GridCell.Tab.0.right" timestamp="1596307701149">
+      <screen x="2560" y="0" width="2535" height="1440" />
+    </state>
+    <state width="1802" height="354" key="GridCell.Tab.0.right/-1440.897.1440.900/2560.0.2535.1440/0.23.2560.1417@2560.0.2535.1440" timestamp="1596307701149" />
+  </component>
+</project>
